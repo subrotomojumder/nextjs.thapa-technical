@@ -1,0 +1,15 @@
+.heading4 {
+    color: yellow;
+    font-size: xx-large;
+}
+
+.headingColor{
+    color: rgb(139, 73, 73);
+}
+.staticDetails {
+    width: 50vw;
+    border: 1px greenyellow solid;
+    margin: 20px auto;
+    padding: 40px;
+
+}
